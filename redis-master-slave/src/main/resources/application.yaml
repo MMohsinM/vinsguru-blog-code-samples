@@ -1,9 +1,0 @@
-redis:
-  master:
-    host: localhost
-    port: 6379
-  slaves:
-    - host: localhost
-      port: 16379
-    - host: localhost
-      port: 26379
